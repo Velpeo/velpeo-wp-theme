@@ -11,6 +11,13 @@
         "block-no-empty": null,
         "no-duplicate-selectors": null,
         "font-family-no-duplicate-names": null,
-        "selector-class-pattern": null
+        "selector-class-pattern": null,
+        "function-url-quotes": null,
+        "color-named": null,
+        "declaration-block-no-duplicate-properties": null,
+        "selector-attribute-quotes": null,
+        "declaration-property-unit-allowed-list": null,
+        "declaration-property-unit-whitelist": null,
+        "font-weight-notation": null
     }
 }

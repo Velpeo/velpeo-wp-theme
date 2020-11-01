@@ -22,7 +22,7 @@
 			<span class="sep"> | </span>
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'velpeo-wp-theme' ), 'velpeo-wp-theme', '<a href="http://bradknowlton.com">Bradford Knowlton</a>' );
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'velpeo-wp-theme' ), 'velpeo-wp-theme', '<a href="https://bradknowlton.com">Bradford Knowlton</a>' );
 				?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
